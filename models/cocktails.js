@@ -1,4 +1,4 @@
-const mongoose= require('mongoose'); d
+const mongoose= require('mongoose'); 
 const Schema = mongoose.Schema; 
 
 const cocktailSchema = new Schema({  
